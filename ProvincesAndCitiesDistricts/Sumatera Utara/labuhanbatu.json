@@ -1,0 +1,38 @@
+[
+    {
+        "label":"RANTAU UTARA",
+        "value":"RANTAU UTARA"
+    },
+    {
+        "label":"RANTAU SELATAN",
+        "value":"RANTAU SELATAN"
+    },   
+    {
+        "label":"BILAH BARAT",
+        "value":"BILAH BARAT"
+    },
+    {
+        "label":"BILAH HILIR",
+        "value":"BILAH HILIR"
+    },
+    {
+        "label":"BILAH HULU",
+        "value":"BILAH HULU"
+    },
+    {
+        "label":"PANGKATAN",
+        "value":"PANGKATAN"
+    },
+    {
+        "label":"PANAI TENGAH",
+        "value":"PANAI TANGAH"
+    },
+    {
+        "label":"PANAI HILIR",
+        "value":"PANAI HILIR"
+    },
+    {
+        "label":"PANAI HULU",
+        "value":"PANAI HULU"
+    }
+]

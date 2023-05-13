@@ -1,0 +1,70 @@
+[
+    {
+        "label": "ALOR BARAT LAUT",
+        "value": "ALOR BARAT LAUT"
+    },
+    {
+        "label": "TELUK MUTIARA",
+        "value": "TELUK MUTIARA"
+    },
+    {
+        "label": "ALOR BARAT DAYA",
+        "value": "ALOR BARAT DAYA"
+    },
+    {
+        "label": "ALOR TENGAH UTARA",
+        "value": "ALOR TENGAH UTARA"
+    },
+    {
+        "label": "ALOR TIMUR LAUT",
+        "value": "ALOR TIMUR LAUT"
+    },
+    {
+        "label": "PANTAR",
+        "value": "PANTAR"
+    },
+    {
+        "label": "LEMBUR",
+        "value": "LEMBUR"
+    },
+    {
+        "label": "PANTAR TENGAH",
+        "value": "PANTAR TENGAH"
+    },
+    {
+        "label": "PANTAR TIMUR",
+        "value": "PANTAR TIMUR"
+    },
+    {
+        "label": "MATARU",
+        "value": "MATARU"
+    },
+    {
+        "label": "ALOR SELATAN",
+        "value": "ALOR SELATAN"
+    },
+    {
+        "label": "ALOR TIMUR",
+        "value": "ALOR TIMUR"
+    },
+    {
+        "label": "PULAU PURA",
+        "value": "PULAU PURA"
+    },
+    {
+        "label": "PUREMAN",
+        "value": "PUREMAN"
+    },
+    {
+        "label": "PANTAR BARAT",
+        "value": "PANTAR BARAT"
+    },
+    {
+        "label": "KABOLA",
+        "value": "KABOLA"
+    },
+    {
+        "label": "PANTAR BARU LAUT",
+        "value": "PANTAR BARU LAUT"
+    }
+]

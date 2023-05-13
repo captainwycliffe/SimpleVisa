@@ -1,0 +1,258 @@
+[
+    {
+        "label": "ABO",
+        "value": "ABO"
+    },
+    {
+        "label": "SERIWEUK",
+        "value": "SERIWEUK"
+    },
+    {
+        "label": "SEUKE",
+        "value": "SEUKE"
+    },
+    {
+        "label": "SEUKEMBROK",
+        "value": "SEUKEMBROK"
+    },
+    {
+        "label": "ULEE CEUE",
+        "value": "ULEE CEUE"
+    },
+    {
+        "label": "ULEE CEUE",
+        "value": "ULEE CEUE"
+    },
+    {
+        "label": "RAWA",
+        "value": "RAWA"
+    },
+    {
+        "label": "RAYA SANGGEUE",
+        "value": "RAYA SANGGEUE"
+    },
+    {
+        "label": "RAYA UTEU",
+        "value": "RAYA UTEU"
+    },
+    {
+        "label": "PUUK",
+        "value": "PUUK"
+    },
+    {
+        "label": "PULO PISANG",
+        "value": "PULO PISANG"
+    },
+    {
+        "label": "PULO BUBEE",
+        "value": "PULO BUBEE"
+    },
+    {
+        "label": "PULI",
+        "value": "PULI"
+    },
+    {
+        "label": "PEUKAN BARO",
+        "value": "PEUKAN BARO"
+    },
+    {
+        "label": "PAYA LINTEUNG",
+        "value": "PAYA LINTEUNG"
+    },
+    {
+        "label": "PAYA",
+        "value": "PAYA"
+    },
+    {
+        "label": "PALOH",
+        "value": "PALOH"
+    },
+    {
+        "label": "UJONG LANGGOE",
+        "value": "UJONG LANGGOE"
+    },
+    {
+        "label": "MEUNASAH GAMPONG",
+        "value": "MEUNASAH GAMPONG"
+    },
+    {
+        "label": "MEUCAT",
+        "value": "MEUCAT"
+    },
+    {
+        "label": "MESJID REUNTOH",
+        "value": "MESJID REUNTOH"
+    },
+    {
+        "label": "MESJID UTUE",
+        "value": "MESJID UTUE"
+    },
+    {
+        "label": "TUMPOK 40",
+        "value": "TUMPOK 40"
+    },
+    {
+        "label": "TUMPOK LAWEUNG",
+        "value": "TUMPOK LAWEUNG"
+    },
+    {
+        "label": "MANCANG",
+        "value": "MANCANG"
+    },
+    {
+        "label": "LHOK KEUTAPANG",
+        "value": "LHOK KEUTAPANG"
+    },
+    {
+        "label": "LEUBUE",
+        "value": "LEUBUE"
+    },
+    {
+        "label": "LAMPEUDUE BAROH",
+        "value": "LAMPEUDUE BAROH"
+    },
+    {
+        "label": "LAMPEUDUE TUNONG",
+        "value": "LAMPEUDUE TUNONG"
+    },
+    {
+        "label": "LAMPOH LADA",
+        "value": "LAMPOH LADA"
+    },
+    {
+        "label": "LAM KUTA",
+        "value": "LAM KUTA"
+    },
+    {
+        "label": "LABUI",
+        "value": "LABUI"
+    },
+    {
+        "label": "KRUENG DHOE",
+        "value": "KRUENG DHOE"
+    },
+    {
+        "label": "KEUTAPANG",
+        "value": "KEUTAPANG"
+    },
+    {
+        "label": "KEUTUMBU",
+        "value": "KEUTUMBU"
+    },
+    {
+        "label": "KEUNIREE",
+        "value": "KEUNIREE"
+    },
+    {
+        "label": "KEUDE KEULIBEUT",
+        "value": "KEUDE KEULIBEUT"
+    },
+    {
+        "label": "KAMPOONG PUKAT",
+        "value": "KAMPOONG PUKAT"
+    },
+    {
+        "label": "KAMPOONG BARAT",
+        "value": "KAMPOONG BARAT"
+    },
+    {
+        "label": "JEULEUPEE",
+        "value": "JEULEUPEE"
+    },
+    {
+        "label": "JEUMPA",
+        "value": "JEUMPA"
+    },
+    {
+        "label": "TIBANG",
+        "value": "TIBANG"
+    },
+    {
+        "label": "TIJUE",
+        "value": "TIJUE"
+    },
+    {
+        "label": "JAWA",
+        "value": "JAWA"
+    },
+    {
+        "label": "GAMPONG BARO",
+        "value": "GAMPONG BARO"
+    },
+    {
+        "label": "GAJAH AYE",
+        "value": "GAJAH AYE"
+    },
+    {
+        "label": "DAYAH TANOH",
+        "value": "DAYAH TANOH"
+    },
+    {
+        "label": "DAYAH TEUBENG",
+        "value": "DAYAH TEUBENG"
+    },
+    {
+        "label": "DAYAH TEUNGOH",
+        "value": "DAYAH TEUNGOH"
+    },
+    {
+        "label": "DAYAH TUTONG",
+        "value": "DAYAH TUTONG"
+    },
+    {
+        "label": "DALUENG",
+        "value": "DALUENG"
+    },
+    {
+        "label": "COT TEUNGOH",
+        "value": "COT TEUNGOH"
+    },
+    {
+        "label": "COT RHENG",
+        "value": "COT RHENG"
+    },
+    {
+        "label": "COT GEUNDUK",
+        "value": "COT GEUNDUK"
+    },
+    {
+        "label": "COT GLUMPANG",
+        "value": "COT GLUMPANG"
+    },
+    {
+        "label": "BLANG KULA",
+        "value": "BLANG KULA"
+    },
+    {
+        "label": "BATEE",
+        "value": "BATEE"
+    },
+    {
+        "label": "BAYU",
+        "value": "BAYU"
+    },
+    {
+        "label": "BAROH",
+        "value": "BAROH"
+    },
+    {
+        "label": "BIE",
+        "value": "BIE"
+    },
+    {
+        "label": "ALUE",
+        "value": "ALUE"
+    },
+    {
+        "label": "ULEE TUTUE",
+        "value": "ULEE TUTUE"
+    },
+    {
+        "label": "TANJONG",
+        "value": "TANJONG"
+    },
+    {
+        "label": "SIRONG",
+        "value": "SIRONG"
+    }
+]

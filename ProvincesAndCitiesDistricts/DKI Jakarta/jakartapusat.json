@@ -1,0 +1,34 @@
+[  
+    { 
+        "label": "GAMBIR",    
+        "value": "GAMBIR" 
+    },  
+    {    
+        "label": "SAWAH BESAR",    
+        "value": "SAWAH BESAR" 
+    },  
+    {    
+        "label": "KEMAYORAN",    
+        "value": "KEMAYORA"  
+    },  
+    {    
+        "label": "SENEN",   
+        "value": "SENEN"  
+    },  
+    {   
+        "label": "CEMPAKA PUTIH",    
+        "value": "CEMPAKA PUTIH"   
+    },  
+    {    
+        "label": "MENTENG",    
+        "value": "MENTENG"  
+    }, 
+    {    
+        "label": "TANAH ABANG",    
+        "value": "TANAH ABANG"  
+    },   
+    {    
+        "label": "JOHAR BARU",    
+        "value": "JOHAR BARU"  
+    }
+]

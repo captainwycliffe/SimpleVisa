@@ -1,0 +1,90 @@
+[
+    {
+        "label":"LHOONG",
+        "value":"LHOONG"
+    },
+    {
+        "label":"LHOKNGA",
+        "value":"LHOKNGA"
+    },
+    {
+        "label":"INDRAPURI",
+        "value":"INDRAPURI"
+    },
+    {
+        "label":"SEULIMEUM",
+        "value":"SEULIME"
+    },
+    {
+        "label":"MONTASIK",
+        "value":"MONTASIK"
+    },
+    {
+        "label":"SUKAMAKMUR",
+        "value":"SUKAMAKMUR"
+    },
+    {
+        "label":"DARUL IMARAH",
+        "value":"DARUL IMARAH"
+    },
+    {
+        "label":"PEUKAN BADA",
+        "value":"PEUKAN BADA"
+    },
+    {
+        "label":"MESJID RAYA",
+        "value":"MESJID RAYA"
+    },
+    {
+        "label":"INGIN RAYA",
+        "value":"INGIN RAYA"
+    },
+    {
+        "label":"KUTA BARO",
+        "value":"KUTA BARO"
+    },
+    {
+        "label":"DARUSSALAM",
+        "value":"DARUSSALAM"
+    },
+    {
+        "label":"PULO ACEH",
+        "value":"PULO ACEH"
+    },
+    {
+        "label":"LEMBAH SEULAWAH",
+        "value":"LEMBAK SEULAWAH"
+    },
+    {
+        "label":"KOTA JANTHO",
+        "value":"KOTA JANTHO"
+    },
+    {
+        "label":"KOTA COT GLIE",
+        "value":"KOTA COT GLIE"
+    },
+    {
+        "label":"KUTA MALAKA",
+        "value":"KUTA MALAKA"
+    },
+    {
+        "label":"SIMPANG TIGA",
+        "value":"SIMPANG TIGA"
+    },
+    {
+        "label":"DARUL KAMAL",
+        "value":"DARUL KAMAL"
+    },
+    {
+        "label":"BAITUSSALAM",
+        "value":"BAITUSSALAM"
+    },
+    {
+        "label":"KRUENG BARONA JAYA",
+        "value":"KRUENG BARON JAYA"
+    },
+    {
+        "label":"LEUPUNG",
+        "value":"LEUPUNG"
+    }
+]

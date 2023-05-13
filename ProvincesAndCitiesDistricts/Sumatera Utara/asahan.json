@@ -1,0 +1,102 @@
+[
+    {
+        "label":"MERANTI",
+        "value":"MERANTI"
+    },
+    {
+        "label":"AIR JOMAN",
+        "value":"AIR JOMAN"
+    },
+    {
+        "label":"TANJUNG BALAI",
+        "value":"TANJUNG BALAI"
+    },
+    {
+        "label":"SEI KEPAYANG",
+        "value":"SEI KEPAYANG"
+    },
+    {
+        "label":"SIMPANG EMPAT",
+        "value":"SIMPANG EMPAT"
+    },
+    {
+        "label":"AIR BATU",
+        "value":"AIR BATU"
+    },
+    {
+        "label":"PULAU RAKYAT",
+        "value":"PULAU RAKYAT"
+    },
+    {
+        "label":"BANDAR PULAU",
+        "value":"BANDAR PULAU"
+    },
+    {
+        "label":"BUNTU PANE",
+        "value":"BUNTU PANE"
+    },
+    {
+        "label":"BANDAR PASIR MANDOGE",
+        "value":"BANDAR PASIR MANDOGE"
+    },
+    {
+        "label":"AEK KUASAN",
+        "value":"AEK KUASAN"
+    },
+    {
+        "label":"KOTA KISARAN BARAT",
+        "value":"KOTA KISARAN BARAT"
+    },
+    {
+        "label":"KOTA KISARAN TIMUR",
+        "value":"KOTA KISARAN TIMUR"
+    },
+    {
+        "label":"AEK SONGSONGAN",
+        "value":"AEK SONGSONGAN"
+    },
+    {
+        "label":"RAHUNIG",
+        "value":"RAHUNIG"
+    },
+    {
+        "label":"SEI DADAP",
+        "value":"SEI DADAP"
+    },
+    {
+        "label":"SEI KEPAYANG BARAT",
+        "value":"SEI KEPAYANG BARAT"
+    },
+    {
+        "label":"SEI KEPAYANG TIMUR",
+        "value":"SEI KEPAYANG TIMUR"
+    },
+    {
+        "label":"TINGGI RAJA",
+        "value":"TINGGI RAJA"
+    },
+    {
+        "label":"SETIA JANJI",
+        "value":"SETIA JANJI"
+    },
+    {
+        "label":"SILAU LAUT",
+        "value":"SILAU LAUT"
+    },
+    {
+        "label":"RAWANG PANCA ARGA",
+        "value":"RAWANG PANCA ARGA"
+    },
+    {
+        "label":"PULO BANDRING",
+        "value":"PULO BANDRING"
+    },
+    {
+        "label":"TELUK DALAM",
+        "value":"TELUK DALAM"
+    },
+    {
+        "label":"AEK LEDONG",
+        "value":"AEK LEDONG"
+    }
+]

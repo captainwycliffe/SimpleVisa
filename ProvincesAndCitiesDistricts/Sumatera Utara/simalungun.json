@@ -1,0 +1,131 @@
+[
+    {
+        "label":"SIANTAR",
+        "value":"SIANTAR"
+    },
+    {
+        "label":"GUNUNG MALELA",
+        "value":"GUNUNG MALELA"
+    },
+    {
+        "label":"GUNUNG MALIGAS",
+        "value":"GUNUNG MALIGAS"
+    },
+    {
+        "label":"PANEI",
+        "value":"PANEI"
+    },
+    {
+        "label":"PANOMBEIAN PANE",
+        "value":"PANOMBEIAN PANE"
+    },
+    {
+        "label":"JORLANG HATARAN",
+        "value":"JORLANG HATARAN"
+    },
+    {
+        "label":"RAYA KAHEAN",
+        "value":"RAYA KAHEAN"
+    },
+    {
+        "label":"BOSAR MALIGAS",
+        "value":"BOSAR MALIGAS"
+    },
+    {
+        "label":"SIDAMANIK",
+        "value":"SIDAMANIK"
+    },
+    {
+        "label":"PEMATANG SIDAMANIK",
+        "value":"PEMATANG SIDAMANIK"
+    },
+    {
+        "label":"TANAH JAWA",
+        "value":"TANAH JAWA"
+    },
+    {
+        "label":"HATONDUHAN",
+        "value":"HATONDUHAN"
+    },
+    {
+        "label":"DOLOK PANRIBUAN",
+        "value":"DOLOK PANRIBUAN"
+    },
+    {
+        "label":"PURBA",
+        "value":"PURBA"
+    },
+    {
+        "label":"HARANGGAOL HORISON",
+        "value":"HARANGGAOL HORISON"
+    },
+    {
+        "label":"GIRSANG SIPANGAN BOLON",
+        "value":"GIRSANG SIPANGAN BOLON"
+    },
+    {
+        "label":"DOLOK BATU NANGGAR",
+        "value":"DOLOK BATU NANGGAR"
+    },
+    {
+        "label":"HUTA BAYU RAJA",
+        "value":"HUTA BAYU RAJA"
+    },
+    {
+        "label":"JAWA MARAJA BAH JAMBI",
+        "value":"JAWA MARAJA BAH JAMBI"
+    },
+    {
+        "label":"DOLOK PARDAMEAN",
+        "value":"DOLOK PARDAMEAN"
+    },
+    {
+        "label":"PEMATANG BANDAR",
+        "value":"PEMATANG BANDAR"
+    },
+    {
+        "label":"BANDAR HULUAN",
+        "value":"BANDAR HULUAN"
+    },
+    {
+        "label":"BANDAR",
+        "value":"BANDAR"
+    },
+    {
+        "label":"BANDAR MASILAM",
+        "value":"BANDAR MASILAM"
+    },
+    {
+        "label":"SILIMAKUTA",
+        "value":"SILIMAKUTA"
+    },
+    {
+        "label":"DOLOK SILAU",
+        "value":"DOLOK SILAU"
+    },
+    {
+        "label":"SILOU KAHEAN",
+        "value":"SILOU KAHEAN"
+    },
+    {
+        "label":"TAPIAN DOLOK",
+        "value":"TAPIAN DOLOK"
+    },
+    {
+        "label":"RAYA",
+        "value":"RAYA"
+    },
+    {
+        "label":"UJUNG PADANG",
+        "value":"UJUNG PADANG"
+    },
+    {
+        "label":"PAMATANG SILIMA HUTA",
+        "value":"PAMATANG SILIMA HUTA"
+    },
+    {
+        "label":"DOLOG MASAGAL",
+        "value":"DOLOG MASAGAL"
+    }
+
+]
