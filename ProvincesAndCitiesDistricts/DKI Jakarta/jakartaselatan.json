@@ -1,0 +1,42 @@
+[  
+    {    
+        "label": "PASAR MINGGU",    
+        "value": "PASAR MINGGU" 
+    },  
+    {
+        "label":"TEBET",
+        "value":"TEBET"
+    },
+    {    
+        "label": "KEBAYORAN BARU",    
+        "value": "KEBAYORAN BARU"  
+    },  
+    {    
+        "label": "KEBAYORAN LAMA",    
+        "value": "KEBAYORAN LAMA"  
+    },  
+    {    
+        "label": "CILANDAK",    
+        "value": "CILANDAK"  
+    }, 
+    {    
+        "label": "JAGAKARSA",    
+        "value": "JAGAKARSA"  
+    },  
+    {    
+        "label": "MAMPANG PRAPATAN",    
+        "value": "MAMPANG PRAPATAN"  
+    },  
+    {    
+        "label": "PANCORAN",    
+        "value": "PANCORAN"  
+    },  
+    {    
+        "label": "PESANGGRAHAN",    
+        "value": "PESANGGRAHAN" 
+    },  
+    {    
+        "label": "SETIA BUDI",    
+        "value": "SETIA BUDI"  
+    }
+]

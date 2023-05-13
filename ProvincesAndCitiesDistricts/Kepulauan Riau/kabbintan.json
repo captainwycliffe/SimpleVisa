@@ -1,0 +1,42 @@
+[
+    {
+        "label": "BINTAN UTARA",
+        "value": "BINTAN UTARA"
+    },
+    {
+        "label": "BINTAN TIMUR",
+        "value": "BINTAN TIMUR"
+    },
+    {
+        "label": "BINTAN PESISIR",
+        "value": "BINTAN PESISIR"
+    },
+    {
+        "label": "GUNUNG KIJANG",
+        "value": "GUNUNG KIJANG"
+    },
+    {
+        "label": "MANTANG",
+        "value": "MANTANG"
+    },
+    {
+        "label": "SERI KUALA LOBAM",
+        "value": "SERI KUALA LOBAM"
+    },
+    {
+        "label": "TELUK BINTAN",
+        "value": "TELUK BINTAN"
+    },
+    {
+        "label": "TELUK SEBONG",
+        "value": "TELUK SEBONG"
+    },
+    {
+        "label": "TOAPAYA",
+        "value": "TOAPAYA"
+    },
+    {
+        "label": "TAMBELAN",
+        "value": "TAMBELAN"
+    }
+]

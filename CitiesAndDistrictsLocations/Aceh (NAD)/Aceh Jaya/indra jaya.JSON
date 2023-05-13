@@ -1,0 +1,254 @@
+[
+    {
+        "label": "WAKHEUH",
+        "value": "WAKHEUH"
+    },
+    {
+        "label": "RUMIA",
+        "value": "RUMIA"
+    },
+    {
+        "label": "RAWA TUNGKOP",
+        "value": "RAWA TUNGKOP"
+    },
+    {
+        "label": "RAYA",
+        "value": "RAYA"
+    },
+    {
+        "label": "PUTOE GAPUI",
+        "value": "PUTOE GAPUI"
+    },
+    {
+        "label": "PULO GAMPOONG U",
+        "value": "PULO GAMPOONG U"
+    },
+    {
+        "label": "ULEE BIRAH",
+        "value": "ULEE BIRAH"
+    },
+    {
+        "label": "PANTE LHOK KAJU",
+        "value": "PANTE LHOK KAJU"
+    },
+    {
+        "label": "PANTE GAROT",
+        "value": "PANTE GAROT"
+    },
+    {
+        "label": "NEULOP II",
+        "value": "NEULOP II"
+    },
+    {
+        "label": "MUKHAN",
+        "value": "MUKHAN"
+    },
+    {
+        "label": "MEUNASAH TUTONG",
+        "value": "MEUNASAH TUTONG"
+    },
+    {
+        "label": "MEUNASAH TEUNGOH",
+        "value": "MEUNASAH TEUNGOH"
+    },
+    {
+        "label": "UJONG MULOH",
+        "value": "UJONG MULOH"
+    },
+    {
+        "label": "MEUNASAH RAYEUK",
+        "value": "MEUNASAH RAYEUK"
+    },
+    {
+        "label": "MEULAYU",
+        "value": "MEULAYU"
+    },
+    {
+        "label": "TUNGKOP CUT",
+        "value": "TUNGKOP CUT"
+    },
+    {
+        "label": "MEUDHANG GHON",
+        "value": "MEUDHANG GHON"
+    },
+    {
+        "label": "MESJID SUWIEK",
+        "value": "MESJID SUWIEK"
+    },
+    {
+        "label": "MESJID TUNGKOP",
+        "value": "MESJID TUNGKOP"
+    },
+    {
+        "label": "MESJID ULEE GAMPOONG",
+        "value": "MESJID ULEE GAMPOONG"
+    },
+    {
+        "label": "MESJID BARO",
+        "value": "MESJID BARO"
+    },
+    {
+        "label": "MESJID DIJIEM",
+        "value": "MESJID DIJIEM"
+    },
+    {
+        "label": "MESJID LAM UJONG",
+        "value": "MESJID LAM UJONG"
+    },
+    {
+        "label": "TUHA SUWIEK",
+        "value": "TUHA SUWIEK"
+    },
+    {
+        "label": "LAM KABU",
+        "value": "LAM KABU"
+    },
+    {
+        "label": "LAM REUNENG",
+        "value": "LAM REUNENG"
+    },
+    {
+        "label": "KUALA",
+        "value": "KUALA"
+    },
+    {
+        "label": "KEUTAPANG",
+        "value": "KEUTAPANG"
+    },
+    {
+        "label": "KEUDE UNGA",
+        "value": "KEUDE UNGA"
+    },
+    {
+        "label": "TEUNGOH SUWIEK",
+        "value": "TEUNGOH SUWIEK"
+    },
+    {
+        "label": "KEUBANG",
+        "value": "KEUBANG"
+    },
+    {
+        "label": "KAREUNG ATEUH",
+        "value": "KAREUNG ATEUH"
+    },
+    {
+        "label": "JURONG",
+        "value": "JURONG"
+    },
+    {
+        "label": "JANGUET",
+        "value": "JANGUET"
+    },
+    {
+        "label": "GUCI",
+        "value": "GUCI"
+    },
+    {
+        "label": "TEUMAREUM",
+        "value": "TEUMAREUM"
+    },
+    {
+        "label": "GLEE GAPUI",
+        "value": "GLEE GAPUI"
+    },
+    {
+        "label": "GAROT CUT",
+        "value": "GAROT CUT"
+    },
+    {
+        "label": "DRIEN",
+        "value": "DRIEN"
+    },
+    {
+        "label": "DAYAH MUARA",
+        "value": "DAYAH MUARA"
+    },
+    {
+        "label": "DAYAH BIE",
+        "value": "DAYAH BIE"
+    },
+    {
+        "label": "DAYAH CALEUE",
+        "value": "DAYAH CALEUE"
+    },
+    {
+        "label": "DAYAH KEURAKO",
+        "value": "DAYAH KEURAKO"
+    },
+    {
+        "label": "TEUNGOH BLANG",
+        "value": "TEUNGOH BLANG"
+    },
+    {
+        "label": "COT SEUKE",
+        "value": "COT SEUKE"
+    },
+    {
+        "label": "CEUNAMPRONG",
+        "value": "CEUNAMPRONG"
+    },
+    {
+        "label": "BLANG RAPAI",
+        "value": "BLANG RAPAI"
+    },
+    {
+        "label": "BLANG LHOK KAJU",
+        "value": "BLANG LHOK KAJU"
+    },
+    {
+        "label": "BLANG GAROT",
+        "value": "BLANG GAROT"
+    },
+    {
+        "label": "BEUREUDEP",
+        "value": "BEUREUDEP"
+    },
+    {
+        "label": "BARO BLUEK",
+        "value": "BARO BLUEK"
+    },
+    {
+        "label": "BARO GAPUI",
+        "value": "BARO GAPUI"
+    },
+    {
+        "label": "BARO JRUEK",
+        "value": "BARO JRUEK"
+    },
+    {
+        "label": "BALE BARO BLUEK",
+        "value": "BALE BARO BLUEK"
+    },
+    {
+        "label": "BALE BAROH GAPUI",
+        "value": "BALE BAROH GAPUI"
+    },
+    {
+        "label": "BABAH DUA",
+        "value": "BABAH DUA"
+    },
+    {
+        "label": "TAMPIENG BAROH",
+        "value": "TAMPIENG BAROH"
+    },
+    {
+        "label": "TAMPIENG TUNONG",
+        "value": "TAMPIENG TUNONG"
+    },
+    {
+        "label": "ALUE MIE",
+        "value": "ALUE MIE"
+    },
+    {
+        "label": "YUB MEE",
+        "value": "YUB MEE"
+    },
+    {
+        "label": "SUKON TUNGKOP",
+        "value": "SUKON TUNGKOP"
+    },
+    {
+        "label": "SUKON ULEE GAMPOONG",
+        "value": "SUKON ULEE GAMPOONG"
+    }
+]
